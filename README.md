@@ -356,24 +356,6 @@ Going forward, I aim to strengthen my expertise in:
 
 ---
 
-# 👨‍💻 About Me
-
-## Ampa Ranjan
-
-🎓 B.Tech Computer Science & Engineering
-
-🏫 KIIT University
-
-📊 Data Analytics Enthusiast
-
-📈 Power BI Dashboard Developer
-
-🤖 AI & Machine Learning Learner
-
-📚 Passionate about Business Intelligence and Data Storytelling
-
----
-
 # 🌐 Connect With Me
 
 ### GitHub
