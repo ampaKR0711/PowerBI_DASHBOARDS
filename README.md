@@ -1,4 +1,3 @@
-
 # 📊 Power BI Dashboard Portfolio
 
 ### Turning Complex Data into Meaningful Insights
@@ -20,7 +19,7 @@ Hello and welcome to my **Power BI Dashboard Portfolio**!
 
 I am **Ampa Ranjan**, a Computer Science & Engineering student at **KIIT University**, passionate about transforming raw datasets into meaningful business intelligence solutions.
 
-This repository serves as a collection of my Power BI projects developed across multiple domains including healthcare, finance, sports analytics, business intelligence, and future data science applications.
+This repository serves as a collection of my Power BI projects developed across multiple domains including healthcare, finance, sports analytics, business intelligence, and data-driven decision support systems.
 
 My goal is simple:
 
@@ -78,10 +77,8 @@ Each dashboard is designed with a focus on:
 * 🏏 Sports Analytics
 * 💰 Financial Analytics
 * 📉 Stock Market Analytics
-* 👥 HR Analytics
-* 🛒 Sales & Marketing Analytics
+* 👥 Workforce Analytics
 * 🤖 AI & Data-Driven Decision Support
-* 🌐 Web Analytics & User Behaviour Analysis
 
 ---
 
@@ -89,84 +86,102 @@ Each dashboard is designed with a focus on:
 
 | Dashboard                                       | Domain                        | Status    |
 | ----------------------------------------------- | ----------------------------- | --------- |
+| 📉 Stock Market Intelligence Dashboard          | Investment & Market Analytics | Planned   |
+| 🛒 Sales Performance Intelligence Dashboard     | Business & Retail Analytics   | Planned   |
+| 👥 Workforce & HR Analytics Dashboard           | Human Resource Analytics      | Planned   |
 | 🏥 Healthcare Capability Intelligence Dashboard | Healthcare Analytics          | Completed |
 | 🏏 IPL 2025 Performance Analytics Dashboard     | Sports Analytics              | Completed |
-| 💰 Financial Analytics Dashboard                | Financial Analytics           | Completed |
-| 📉 Stock Market Intelligence Dashboard          | Investment & Market Analytics | Planned   |
-| 👥 Workforce & HR Analytics Dashboard           | Human Resource Analytics      | Planned   |
-| 🛒 Sales Performance Intelligence Dashboard     | Retail & Business Analytics   | Planned   |
-| 📣 Marketing Campaign Analytics Dashboard       | Marketing Analytics           | Planned   |
-| 🌐 Web User Behaviour Analytics Dashboard       | Web Analytics                 | Planned   |
-| 🎓 Education Analytics Dashboard                | Educational Analytics         | Planned   |
-| 🚚 Supply Chain & Logistics Dashboard           | Operations Analytics          | Planned   |
 
 ---
 
-# 🏥 Featured Dashboard 1
+# 📉 Stock Market Intelligence Dashboard
 
-## Healthcare Capability Intelligence Dashboard
+A future dashboard focused on investment analytics, market intelligence, and financial decision support.
 
-This dashboard was developed as part of a healthcare analytics solution focusing on intelligent healthcare capability extraction and healthcare business intelligence.
+### Planned Features
+
+* Stock Performance Tracking
+* Portfolio Analysis
+* Market Trend Analysis
+* Risk Assessment
+* Investment Insights
+* Financial KPI Monitoring
+* Sector-Wise Analysis
+* Portfolio Diversification Insights
+
+---
+
+# 🛒 Sales Performance Intelligence Dashboard
+
+A business intelligence dashboard designed to evaluate sales performance and organizational growth.
+
+### Planned Features
+
+* Revenue Tracking
+* Sales Performance Monitoring
+* Product Performance Analysis
+* Customer Insights
+* Regional Sales Analysis
+* Profitability Analysis
+* Business KPI Monitoring
+* Executive Reporting
+
+---
+
+# 👥 Workforce & HR Analytics Dashboard
+
+A workforce intelligence dashboard focused on employee and organizational analytics.
+
+### Planned Features
+
+* Employee Performance Analysis
+* Attrition Analysis
+* Recruitment Metrics
+* Workforce Planning
+* Department-Level Insights
+* Diversity Metrics
+* Employee Satisfaction Indicators
+* HR KPI Monitoring
+
+---
+
+# 🏥 Healthcare Capability Intelligence Dashboard
+
+Developed as part of the Databricks × Accenture Healthcare Analytics Challenge.
 
 ### Key Features
 
 * Healthcare Capability Analysis
 * Treatment Distribution Analysis
 * Cost Analytics
-* SQL-Based Insights
-* KPI Monitoring
-* Interactive Dashboarding
+* Healthcare KPI Monitoring
+* SQL-Based Analytics
+* Interactive Business Intelligence Dashboard
 
 ### Technologies Used
 
 * Databricks
 * Delta Lake
-* SQL Analytics
-* Power BI
+* SQL
 * Python
+* Power BI
 
 ---
 
-# 🏏 Featured Dashboard 2
-
-## IPL 2025 Performance Analytics Dashboard
+# 🏏 IPL 2025 Performance Analytics Dashboard
 
 A sports analytics dashboard developed using IPL 2025 batting and bowling datasets.
 
 ### Key Features
 
-* Top Run Scorers
-* Top Wicket Takers
-* Strike Rate Analysis
-* Economy Analysis
-* Team Contribution Analysis
-* Boundary Analysis
-* Six-Hitting Analysis
-* Interactive Filters
-
-### KPIs
-
-* Total Tournament Runs
-* Total Tournament Wickets
-* Average Strike Rate
-* Average Economy Rate
-
----
-
-# 💰 Featured Dashboard 3
-
-## Financial Analytics Dashboard
-
-A business intelligence dashboard developed to monitor financial performance indicators and support financial decision-making.
-
-### Key Features
-
-* Financial KPI Tracking
-* Revenue Analysis
-* Performance Monitoring
-* Trend Analysis
-* Interactive Reporting
-* Executive-Level Insights
+* Top Run Scorers Analysis
+* Top Wicket Takers Analysis
+* Strike Rate Evaluation
+* Economy Rate Analysis
+* Team Contribution Insights
+* Boundary & Six-Hitting Analysis
+* Interactive Team & Player Filters
+* Executive Performance Overview
 
 ---
 
@@ -259,71 +274,6 @@ Insights should support better decision making.
 
 ---
 
-# 🚀 Future Dashboard Roadmap
-
-As I continue my journey through Computer Science, Data Science, Business Intelligence, and Web Development, I plan to build advanced dashboards across multiple domains.
-
-## 📉 Stock Market Intelligence Dashboard
-
-Focus Areas:
-
-* Stock Performance Tracking
-* Portfolio Analysis
-* Market Trends
-* Risk Assessment
-* Investment Insights
-
----
-
-## 🌐 Web User Behaviour Analytics Dashboard
-
-Inspired by my Web Development Internship experience.
-
-Focus Areas:
-
-* Website Traffic Analytics
-* User Engagement Metrics
-* Conversion Analysis
-* Session Monitoring
-* User Journey Mapping
-
----
-
-## 🎓 Education Analytics Dashboard
-
-Inspired by my Data Science learning journey.
-
-Focus Areas:
-
-* Student Performance Analysis
-* Learning Progress Monitoring
-* Academic KPIs
-* Educational Insights
-
----
-
-## 👥 Workforce & HR Analytics Dashboard
-
-Focus Areas:
-
-* Employee Performance
-* Attrition Analysis
-* Hiring Analytics
-* Workforce Planning
-
----
-
-## 🛒 Sales & Business Intelligence Dashboard
-
-Focus Areas:
-
-* Revenue Analysis
-* Customer Analytics
-* Product Performance
-* Business KPIs
-
----
-
 # 🌟 Key Skills Demonstrated
 
 ### Data Analytics
@@ -356,7 +306,27 @@ Focus Areas:
 
 ---
 
+# 📷 Dashboard Gallery
 
+## Healthcare Capability Intelligence Dashboard
+
+Add Screenshot Here
+
+```markdown
+![Healthcare Dashboard](images/healthcare_dashboard.png)
+```
+
+---
+
+## IPL 2025 Performance Analytics Dashboard
+
+Add Screenshot Here
+
+```markdown
+![IPL Dashboard](images/ipl_dashboard.png)
+```
+
+---
 
 # 📈 Learning Goals
 
@@ -378,7 +348,6 @@ Going forward, I aim to strengthen my expertise in:
 * Machine Learning
 * Explainable AI (XAI)
 * Data Engineering
-* Feature Engineering
 
 ## Cloud & Modern Data Platforms
 
@@ -395,13 +364,6 @@ Going forward, I aim to strengthen my expertise in:
 * Financial Modeling
 * Market Intelligence Dashboards
 
-## Web & User Analytics
-
-* Web Analytics
-* User Behaviour Analysis
-* Product Analytics
-* Digital Performance Monitoring
-
 ---
 
 # 👨‍💻 About Me
@@ -416,6 +378,7 @@ Going forward, I aim to strengthen my expertise in:
 
 📈 Power BI Dashboard Developer
 
+🤖 AI & Machine Learning Learner
 
 📚 Passionate about Business Intelligence and Data Storytelling
 
@@ -452,3 +415,4 @@ This repository represents my journey in transforming data into meaningful busin
 ⭐ If you find this repository useful, consider giving it a star! ⭐
 
 </div>
+
