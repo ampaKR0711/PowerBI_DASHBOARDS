@@ -308,7 +308,7 @@ Insights should support better decision making.
 
 ## Healthcare Capability Intelligence Dashboard
 
-Add Screenshot Here
+(coming soon)
 
 ```markdown
 ![Healthcare Dashboard](images/healthcare_dashboard.png)
@@ -318,7 +318,9 @@ Add Screenshot Here
 
 ## IPL 2025 Performance Analytics Dashboard
 
-Add Screenshot Here
+<img width="1281" height="744" alt="image" src="https://github.com/user-attachments/assets/a1374d27-bc4f-46da-878c-cf0186f49942" />
+<img width="1278" height="740" alt="image" src="https://github.com/user-attachments/assets/e3d60830-ec0a-49a0-9203-1a828cc574d4" />
+
 
 ```markdown
 ![IPL Dashboard](images/ipl_dashboard.png)
